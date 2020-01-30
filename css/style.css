@@ -19,7 +19,8 @@ nav{
 }
 .navbar{
     display: flex;
-    margin-left: 8em;   
+    margin-left: 8em;
+       
 }
 
 .navbar div{
