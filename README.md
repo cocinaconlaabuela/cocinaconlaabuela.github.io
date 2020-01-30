@@ -1,2 +1,4 @@
-# cocinaconlaabuela.github.io
-Trabajo para Lenguaje de Marcas. Juan Miguel Costa, Javier Epifanio, Javier Fernández, David Galván y Alejandro Rodríguez
+# Página Cocina La Abuela
+Página de recetas de La Abuela.
+
+Página desarrollada por: Juan Miguel Costa, Javier Epifanio, Javier Fernández, David Galván y Alejandro Rodríguez
