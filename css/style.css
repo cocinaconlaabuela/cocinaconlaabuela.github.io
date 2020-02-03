@@ -125,6 +125,9 @@ nav{
     height: 300px;
     margin: auto;
 }
+.cajasdecategorias h1{
+    color: black;
+}
 .wrapper {
     overflow-x: hidden; /*Elimina la barra de movimiento inferior*/
     
@@ -134,6 +137,9 @@ nav{
     grid-auto-rows: minmax(100px, auto);
 
     padding: 30px;
+}
+.wrapper a{
+    text-decoration: none;
 }
 footer {
     display: flex;
