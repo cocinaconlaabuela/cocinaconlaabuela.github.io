@@ -155,8 +155,12 @@ footer {
 
     bottom: 0;
 }
-.footerimg img {
+footer img {
     padding: 10px;
+    width: 14em;
+    height: 3em;
+}
+.footerimg img {
     width: 25px;
     height: 25px;
 }
