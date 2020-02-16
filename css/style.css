@@ -116,18 +116,34 @@ nav{
 
 /* Cajas de categorías */
 .cajasdecategorias {
-    background-image: url(../img/imagencajas.jpg);
-    background-position: center;
-    background-size: 600px;
+
+    align-content: center;
+
     border: solid 1px black;
     border-radius: 2px;
     width: 300px;
     height: 300px;
-    margin: auto;
+    margin: auto; 
+
+}
+.cajasdecategorias img{
+
+    position: absolute;
+    border: solid 1px black;
+    border-radius: 2px;
+    width: 300px;
+    height: 300px;
+    margin: 0; 
+
 }
 .cajasdecategorias h1{
-    color: black;
+    position: absolute;
+    width: 250px;
+    margin: 25px;
+    color: orange;
+    text-shadow: 3px 3px rgb(33, 33, 33);
 }
+
 .wrapper {
     overflow-x: hidden; /*Elimina la barra de movimiento inferior*/
     

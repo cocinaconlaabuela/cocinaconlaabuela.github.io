@@ -118,6 +118,16 @@ más suave. No sirve de nada pero lo mantego por si acaso. Se puede borrar.
     height:0;
     transition: .0s ease;
 }
+.overlay {
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    width: 100%;
+    height:0;
+    transition: .0s ease;
+}
 
 .contenedor2:hover .overlay{
     bottom: 0;
