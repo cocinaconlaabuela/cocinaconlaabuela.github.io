@@ -78,7 +78,6 @@ nav{
 .contenido{
     display: flex;
     flex-direction: row;
-    height: 62.6vh;
 }
 .nd-contacto{
     display: flex;
