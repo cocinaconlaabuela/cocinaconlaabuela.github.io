@@ -76,15 +76,15 @@ nav{
 
 /*CSS Slider*/
 .slider{
-    width: 100%;
+    width: 70%;
     height: 32.8em;
-    margin: 0;
+    margin: auto;
+    margin-top: 3em;
     overflow: hidden;
 }
 
 .slider ul{
     display: flex;
-    padding: 0;
     width: 400%;
 
     animation: cambio 16s infinite;
